@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: Verdana;
+    
+   
+}
+
+.logo-img {
+    width: 150px;
+    
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #220901;
+    color: #ffb703;
+    border-bottom: 6px solid #d8cefe;
+}
+
+
